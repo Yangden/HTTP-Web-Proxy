@@ -1,0 +1,8 @@
+# ignore object files
+*.o
+
+#ignore the executable binary file
+proxy
+
+#ignore 'tiny' directory
+tiny/

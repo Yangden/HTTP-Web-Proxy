@@ -12,6 +12,8 @@ void proxy_mode(int);
 void forward_message(int, int);
 void add_hdrs(int, char *);
 
+/* test on browser */
+
 int main(int argc, char **argv)
 {
     int listenfd,connfd;

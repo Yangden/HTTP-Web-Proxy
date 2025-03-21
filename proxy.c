@@ -12,7 +12,7 @@ void proxy_mode(int);
 void forward_message(int, int);
 void add_hdrs(int, char *);
 
-/* test on browser */
+/* test on browser : yes*/
 
 int main(int argc, char **argv)
 {

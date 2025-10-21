@@ -1,0 +1,7 @@
+name: Auto PR from test to main
+
+on:
+  push:
+    branches:
+      - test
+  
